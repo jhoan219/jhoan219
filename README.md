@@ -1,48 +1,86 @@
-👋 Hola, soy Jhoan Labra
-🌟 Un apasionado desarrollador frontend de Perú 🌟
-    
-👨 💻 Sobre mí
-Soy un desarrollador de software con 3+ años de experiencia en la creación de aplicaciones web escalables y eficientes utilizando tecnologías modernas. Me especializo en JavaScript y TypeScript y tengo experiencia en desarrollo frontend y backend, junto con experiencia en prácticas de DevOps. Mi pasión radica en resolver problemas complejos y construir proyectos impactantes.
+<h1 align="center">👋 Hi, I'm Jhoan Labra</h1>
+<h3 align="center">🌟 A Passionate Frontend Developer from Perú 🌟</h3>
 
-🌎 Con sede en: Perú
-🌱 Actualmente aprendiendo: Kubernetes avanzado y sistemas distribuidos
-🛠️ Siempre entusiasmado con: Tecnologías e innovaciones emergentes
-🛠️ Mi pila tecnológica
-Interfaz
-🌟 JavaScript | Mecanografiado
-🌟 Reaccionar | Angular | Next.js
-🌟 CSS | SASS | Componentes con estilo | Viento de colaCSS
-🌟 Redux | Zustand | Consulta de reacción
-Backend
-🚀 Node.js | Express | Nest.js
-🚀 GraphQL | API REST
-🚀 MongoDB | MySQL | Redis
-DevOps
-🛠️ Ventana acoplable | Nginx | Kubernetes | AWS | Acciones de GitHub
-📚 Idiomas
-Idioma	Nivel
-🇪🇸 Español	Nativo (C2)
-🇬🇧 Inglés	Intermedio (B2)
-🇵🇹 Portugués	Básico (A2)
-💼 Experiencia profesional
-Desarrollador Full Stack en Globals S1
-Remoto - Perú | Mayo 2023 - Actualidad
+---
 
-🌐 Creó y mantuvo aplicaciones web con React, Next.js y Nest.js.
-💳 Desarrolló servicios de pago integrando Stripe, Astropay y más.
-🛠️ Migración de sistemas heredados a microservicios para una mejor escalabilidad y rendimiento.
-📈 Arquitecturas diseñadas (DDD, EDD, BFF) adaptadas a sistemas complejos.
-Desarrollador Frontend en CeatecSoft
-Remoto - Perú | Nov 2022 - Feb 2023
+<div align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square" />
+</div>
 
-🚀 Creó aplicaciones web receptivas y optimizadas para SEO utilizando React y Angular.
-🔧 Mejoró el rendimiento y la adaptabilidad de un proyecto heredado.
-📅 Colaboré en sprints ágiles para planificar y entregar tareas de manera eficiente.
-🎓 Educación
-Programa de Desarrolladores de Software en Código Powered by Tecsup | 2022
-Ingeniería de Sistemas en Universidad Tecnológica del Perú | 2018
-📫 ¡Conectémonos!
-📞 WhatsApp: +51963428337
-📧 Correo electrónico: 
-💼 LinkedIn:  
-"Apasionado por la tecnología, comprometido con el crecimiento e impulsado por la innovación".
+---
+
+### 👨‍💻 About Me
+I'm a **Software Developer** with 3+ years of experience creating scalable and efficient web applications using modern technologies. I specialize in **JavaScript** and **TypeScript** and have expertise in both **frontend** and **backend** development, along with experience in **DevOps practices**. My passion lies in solving complex problems and building impactful projects.
+
+- 🌎 Based in: **Peru**
+- 🌱 Currently learning: **Advanced Kubernetes & Distributed Systems**
+- 🛠️ Always excited about: **Emerging technologies & innovations**
+
+---
+
+### 🛠️ My Tech Stack
+
+#### **Frontend**
+- 🌟 JavaScript | TypeScript
+- 🌟 React | Angular | Next.js
+- 🌟 CSS | SASS | Styled Components | TailwindCSS
+- 🌟 Redux | Zustand | React Query
+
+#### **Backend**
+- 🚀 Node.js | Express | Nest.js
+- 🚀 GraphQL | REST APIs
+- 🚀 MongoDB | MySQL | Redis
+
+#### **DevOps**
+- 🛠️ Docker | Nginx | Kubernetes | AWS | GitHub Actions
+
+---
+
+### 📚 Languages
+| Language      | Level          |
+|---------------|----------------|
+| 🇪🇸 Spanish    | Native (C2)    |
+| 🇬🇧 English    | Intermediate (B2) |
+| 🇵🇹 Portuguese | Basic (A2)     |
+
+---
+
+### 💼 Professional Experience
+
+#### **Full Stack Developer** at [Globals S1](https://www.globals.one)  
+*Remote - Peru* | *May 2023 - Present*
+
+- 🌐 Built and maintained web apps using **React**, **Next.js**, and **Nest.js**.
+- 💳 Developed payment services integrating Stripe, Astropay, and more.
+- 🛠️ Migrated legacy systems to **microservices** for better scalability and performance.
+- 📈 Designed architectures (DDD, EDD, BFF) tailored for complex systems.
+
+#### **Frontend Developer** at **CeatecSoft**  
+*Remote - Peru* | *Nov 2022 - Feb 2023*
+
+- 🚀 Created responsive, SEO-optimized web apps using **React** and **Angular**.
+- 🔧 Enhanced a legacy project’s performance and adaptability.
+- 📅 Collaborated in Agile sprints to plan and deliver tasks efficiently.
+
+---
+
+### 🎓 Education
+
+- **Software Developer Program** at Código Powered by Tecsup | *2022*  
+- **System Engineering** at Universidad Tecnológica del Perú | *2018*
+
+---
+
+### 📫 Let's Connect!
+
+- 📞 **WhatsApp**: [+51963428337](https://wa.me/51963428337)  
+- 📧 **Email**: [@gmail.com](mailto:labrajhoan219@gmail.com)  
+- 💼 **LinkedIn**: [Jhoan Labra](https://www.linkedin.com)  
+
+---
+
+> **_"Passionate about technology, committed to growth, and driven by innovation."_**
