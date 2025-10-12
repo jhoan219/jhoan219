@@ -43,6 +43,6 @@ Programa de Desarrolladores de Software en Código Powered by Tecsup | 2022
 Ingeniería de Sistemas en Universidad Tecnológica del Perú | 2018
 📫 ¡Conectémonos!
 📞 WhatsApp: +51963428337
-📧 Correo electrónico: peterjackcc@gmail.com
-💼 LinkedIn: Peter Castillo
+📧 Correo electrónico: 
+💼 LinkedIn:  
 "Apasionado por la tecnología, comprometido con el crecimiento e impulsado por la innovación".
