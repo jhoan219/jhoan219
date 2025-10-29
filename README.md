@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Jhoan Labra</h1>
-<h3 align="center">🌟 A Passionate Frontend Developer from Perú 🌟</h3>
+<h1 align="center">👋 Hola, Soy Jhoan Labra</h1>
+<h3 align="center">🌟Desarrollador Frontend Apasionado de Perú 🌟</h3>
 
 ---
 
@@ -13,65 +13,29 @@
 
 ---
 
-### 👨‍💻 About Me
-I'm a **Software Developer** with 3+ years of experience creating scalable and efficient web applications using modern technologies. I specialize in **JavaScript** and **TypeScript** and have expertise in both **frontend** and **backend** development, along with experience in **DevOps practices**. My passion lies in solving complex problems and building impactful projects.
+### 👨‍💻 Sobre mi
+Egresado en Computación e informática en Cibertec, apasionado en análisis y programación, cuento con experiencia en logística, comprometido con el trabajo, con capacidad para trabajar en equipo y adaptarme a entornos dinámicos, con capacidad de análisis y resolución de problemas. Busco seguir creciendo profesionalmente y consolidarme en el área de desarrollo y análisis.
 
-- 🌎 Based in: **Peru**
-- 🌱 Currently learning: **Advanced Kubernetes & Distributed Systems**
-- 🛠️ Always excited about: **Emerging technologies & innovations**
 
----
-
-### 🛠️ My Tech Stack
+### 🛠️ Mi Stack Tecnológico
 
 #### **Frontend**
-- 🌟 JavaScript | TypeScript
-- 🌟 React | Angular | Next.js
-- 🌟 CSS | SASS | Styled Components | TailwindCSS
-- 🌟 Redux | Zustand | React Query
+- 🌟 JavaScript 
+- 🌟 React 
+- 🌟 CSS | SASS 
 
 #### **Backend**
 - 🚀 Node.js | Express | Nest.js
 - 🚀 GraphQL | REST APIs
-- 🚀 MongoDB | MySQL | Redis
+- 🚀 SQL Server| MySQL | Oracle
 
-#### **DevOps**
-- 🛠️ Docker | Nginx | Kubernetes | AWS | GitHub Actions
 
----
 
-### 📚 Languages
-| Language      | Level          |
-|---------------|----------------|
-| 🇪🇸 Spanish    | Native (C2)    |
-| 🇬🇧 English    | Intermediate (B2) |
-| 🇵🇹 Portuguese | Basic (A2)     |
-
----
-
-### 💼 Professional Experience
-
-#### **Full Stack Developer** at [Globals S1](https://www.globals.one)  
-*Remote - Peru* | *May 2023 - Present*
-
-- 🌐 Built and maintained web apps using **React**, **Next.js**, and **Nest.js**.
-- 💳 Developed payment services integrating Stripe, Astropay, and more.
-- 🛠️ Migrated legacy systems to **microservices** for better scalability and performance.
-- 📈 Designed architectures (DDD, EDD, BFF) tailored for complex systems.
-
-#### **Frontend Developer** at **CeatecSoft**  
-*Remote - Peru* | *Nov 2022 - Feb 2023*
-
-- 🚀 Created responsive, SEO-optimized web apps using **React** and **Angular**.
-- 🔧 Enhanced a legacy project’s performance and adaptability.
-- 📅 Collaborated in Agile sprints to plan and deliver tasks efficiently.
-
----
 
 ### 🎓 Education
 
 - **Software Developer Program** at Código Powered by Tecsup | *2022*  
-- **System Engineering** at Universidad Tecnológica del Perú | *2018*
+- **Computacion e informatica** at Cebertec | *2024*
 
 ---
 
