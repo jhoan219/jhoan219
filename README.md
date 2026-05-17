@@ -34,8 +34,8 @@ Egresado en Computación e informática en Cibertec, apasionado en análisis y p
 
 - **Software Developer Program** at Código Powered by Tecsup | *2022*  
 - **Computacion e informatica** at Cibertec | *2025*
-- **Grado de bacchiller equivalente universitario Ingenieria de Sistemas** at Cibertec | *2025*
-- 
+- **Grado de bacchiller equivalente universitario Ingenieria de Sistemas** at Cibertec | *Actual*
+  
 
 ---
 
