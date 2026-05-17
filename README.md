@@ -22,7 +22,8 @@ Egresado en Computación e informática en Cibertec, apasionado en análisis y p
 - 🌟 CSS | SASS |Html
 
 #### **Backend**
-- 🚀 Node.js | 
+- 🚀 Node.js |
+- 🚀 Python |
 - 🚀 REST APIs
 - 🚀 SQL Server| MySQL | Oracle
 
@@ -32,7 +33,9 @@ Egresado en Computación e informática en Cibertec, apasionado en análisis y p
 ### 🎓 Educación 
 
 - **Software Developer Program** at Código Powered by Tecsup | *2022*  
-- **Computacion e informatica** at Cebertec | *2024*
+- **Computacion e informatica** at Cibertec | *2025*
+- **Grado de bacchiller equivalente universitario Ingenieria de Sistemas** at Cibertec | *2025*
+- 
 
 ---
 
